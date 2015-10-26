@@ -11,5 +11,5 @@ $$M \subset W \iff W \supset M$$.
 Check out my other online presences here:
 
  * [Code](http://github.com/mcwalters)
- * [Work](http://linkedin.com/brendanmcw)
+ * [Work](http://linkedin.com/in/brendanmcw)
  * [Social](http://twitter.com/BrendanMcW)
