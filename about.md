@@ -10,6 +10,6 @@ $$M \subset W \iff W \supset M$$.
 
 Check out my other online presences here:
 
- * [Code](github.com/mcwalters)
- * [Work](linkedin.com/brendanmcwalters)
- * [Social](twitter.com/BrendanMcW)
+ * [Code](http://github.com/mcwalters)
+ * [Work](http://linkedin.com/brendanmcwalters)
+ * [Social](http://twitter.com/BrendanMcW)
