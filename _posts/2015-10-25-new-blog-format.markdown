@@ -11,7 +11,7 @@ As I get around to recreating some of the pages from the old blog, there will be
 math, algorithms and visualizations demonstrated 
 and implemenations in javascript, python, R and whatever else I feel like.
 
-I spent today at the [Microsoft Reactor][http://microsoftreactor.com/] for workshops held by the 
+I spent today at the [Microsoft Reactor](http://microsoftreactor.com/) for workshops held by the 
 [Open Data Science Conference][http://opendatascicon.com/] on Machine Learning and Python's scikit-learn library.
 
 Much thanks to [Rob Hall][https://twitter.com/hallr] from [General Assembly][https://generalassemb.ly/instructors/rob-hall/1864] 
