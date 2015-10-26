@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to McW!"
 date:   2015-10-25 07:55:55
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Welcome to the new home of McW. I'm very happy to be using [Jekyll][jekyll] and hosted on [Github Pages][pages-gh].
 
-Jekyll also offers powerful support for code snippets:
+As I get around to recreating some of the pages from the old blog, there will be posts on 
+math, algorithms and visualizations demonstrated 
+and implemenations in javascript, python, R and whatever else I feel like.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I spent today at the [Microsoft Reactor][http://microsoftreactor.com/] for workshops held by the 
+[Open Data Science Conference][http://opendatascicon.com/] on Machine Learning and Python's scikit-learn library.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Much thanks to [Rob Hall][https://twitter.com/hallr] from [General Assembly][https://generalassemb.ly/instructors/rob-hall/1864] 
+and [Lukas Biewald][http://lukasbiewald.com/], CEO of [Crowdflower][http://www.crowdflower.com/] for great workshops. I hope to post some notes on what I learned soon. 
 
 [jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+[pages-gh]:   https://pages.github.com/
