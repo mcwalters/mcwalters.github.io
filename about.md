@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I'm amused that the start of my last name looks like set theory notation $$M \subset W$$ with mirrored symmetry $$W \supset M$$. 
+I'm amused that the start of my last name looks like set theory notation with mirrored symmetry:
+
+$$M \subset W \iff W \supset M$$. 
 
 Check out my other online presences here:
 
