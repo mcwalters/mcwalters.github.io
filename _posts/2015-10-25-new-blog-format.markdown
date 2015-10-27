@@ -18,6 +18,8 @@ Python's [scikit-learn](http://scikit-learn.org/stable/) library.
 Much thanks to [Rob Hall](https://twitter.com/hallr) from [General Assembly](https://generalassemb.ly/instructors/rob-hall/1864) 
 and [Lukas Biewald](http://lukasbiewald.com/), CEO of [Crowdflower](http://www.crowdflower.com/) for great workshops. I hope to post some notes on what I learned soon. 
 
-Update: I've got some notes and code from the [scikit-learn intro](https://github.com/mcwalters/scikit-class/blob/master/sklearn_intro_py3.ipynb).
+Update (10/26): I've got some notes and code from the [scikit-learn intro](https://github.com/mcwalters/scikit-class/blob/master/sklearn_intro_py3.ipynb).
+
+
 [jekyll]:      http://jekyllrb.com
 [pages-gh]:   https://pages.github.com/
