@@ -110,6 +110,7 @@ is to be held back and punished because 10+ years later, he may take linear alge
 
 This rigid curriculum leaves no room for the creativity and discovery of real mathematics. 
 
+The nonsensical nature of the javascript and matrix math arguements reveal a dogma deeply entrenched math education.
 [Lockhart's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf) outlines this problem 
 
 >Students are taught to view mathematics as a set of procedures,
@@ -120,13 +121,6 @@ standard forms will provide additional confusion as to the meaning of identity a
 
 The demand for respect which comes from Berry reeks of this "church of math" piety and is contrary to 
 mathematical learning as an adventure of discovery, a creative endeavor where the teacher is a midwife not a sculptor.
-
-### Math is creative
-I love math. It is elegant, beautiful and pure. It's an adventure of discovery to discover fundamental truths. 
-I remember my first realization about the relationship between the abstractions on the page 
-([arabic numerals](https://en.wikipedia.org/wiki/Arabic_numerals) and 
-[infix notation](https://en.wikipedia.org/wiki/Infix_notation), note that I no need of names for them at the time) 
-and the reality they represented: with this toolkit, I could explore nearly anything. 
 
 ![XKCD on purity of fields](http://imgs.xkcd.com/comics/purity.png)
 
@@ -147,6 +141,9 @@ One of the greatest teachers I've encountered in my life is
 [Problem Solving](http://www.amazon.com/The-Art-Craft-Problem-Solving/dp/0471789011) seminar course at 
 [USF](https://www.usfca.edu/arts-sciences/undergraduate-programs/mathematics)
 taught me more about mathematics than all of the other courses I took in college combined.
+I'm grateful for his ability to break down the notation dogma and bring it back to understanding of the problem.
+"Without loss of generality let $$n=3$$" was his way of saying, let's look at what is actually happening 
+rather than getting lost in the quagmire of abstract notation.
 
 > "Mathmatics isn't about computation, it's about problem solving." -- Elly Schofield
 
@@ -156,19 +153,21 @@ undergraduate level where she discovered the truth: that isn't math. It's the to
 Elly describes her "personal betrayal" by the education she received as the likely reason people hate mathematics. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sBPKoTr-XnQ" frameborder="0" allowfullscreen></iframe>
 
-I've been blessed with a great number of wonderful math teachers. Chief among them is
-Often, when approaching an algebraic problem like
+The strongest point from Elly's talk is the utility of "productive failure" in practicing real mathematics. 
+I love her idea of creating a small gap in the armor of the church of math piety. 
+It doesn't have to be an overhaul of everything, but a place in math education 
+where the kid who's paper strayed from the rigid dogma and demonstrated real problem solving could be lauded for their growth.
 
-> Prove that for all $$n \in \mathbb{N}$$, 
-$$\lfloor \sqrt{n} + \sqrt{n+1} \rfloor = \lfloor\sqrt{4n+2}\rfloor$$.
-
-he would start the discussion of how to approach it with "without loss of generality, let n equal 3", 
-and would proceed to demonstrate the nature of the problem.
 
 ### Values Education
 
-Randy Pausch 
+[Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo)
 What are we teaching with mathematics like this?
 
 My only possible explanation of her expostion of the difference between `"4"` and `4` in Javascript is that she is 
 trying to teach attention to detail as a part of mathematics.
+
+
+[Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY)
+Killing creativity
+
