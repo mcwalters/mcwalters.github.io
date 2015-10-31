@@ -121,6 +121,10 @@ standard forms will provide additional confusion as to the meaning of identity a
 
 The demand for respect which comes from Berry reeks of this "church of math" piety and is contrary to 
 mathematical learning as an adventure of discovery, a creative endeavor where the teacher is a midwife not a sculptor.
+One of the wonderful things about math is that it's a level playing field. 
+There are no "thou shalt"s because the math is all there is. "Does this make sense?" is the only guideline.
+It's a purity not possible in most other fields which liberates the student from the burden of right and wrong 
+to the freedom of what is possible.
 
 ![XKCD on purity of fields](http://imgs.xkcd.com/comics/purity.png)
 
@@ -154,20 +158,7 @@ Elly describes her "personal betrayal" by the education she received as the like
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sBPKoTr-XnQ" frameborder="0" allowfullscreen></iframe>
 
 The strongest point from Elly's talk is the utility of "productive failure" in practicing real mathematics. 
-I love her idea of creating a small gap in the armor of the church of math piety. 
-It doesn't have to be an overhaul of everything, but a place in math education 
-where the kid who's paper strayed from the rigid dogma and demonstrated real problem solving could be lauded for their growth.
-
-
-### Values Education
-
-[Randy Pausch](https://www.youtube.com/watch?v=ji5_MqicxSo)
-What are we teaching with mathematics like this?
-
-My only possible explanation of her expostion of the difference between `"4"` and `4` in Javascript is that she is 
-trying to teach attention to detail as a part of mathematics.
-
-
-[Ken Robinson](https://www.youtube.com/watch?v=iG9CE55wbtY)
-Killing creativity
-
+I love her idea of creating a small gap in the armor of the church of math. 
+It doesn't have to be an overhaul of of the whole system, but let's make a place in math education 
+where the kid who's paper strayed from the rigid dogma and demonstrated real problem solving could be lauded for 
+doing real math.
