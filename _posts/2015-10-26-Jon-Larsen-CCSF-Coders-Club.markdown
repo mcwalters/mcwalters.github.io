@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lightning Talks with Jon Larsen"
+title:  "Markov Chains with Jon Larsen"
 date:   2015-10-26 21:55:55
 categories: jekyll update
 ---
