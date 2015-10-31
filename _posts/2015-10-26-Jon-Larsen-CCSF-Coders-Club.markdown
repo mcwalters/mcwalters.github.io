@@ -13,3 +13,4 @@ My friend [Jon Larsen](https://www.linkedin.com/in/larsenjon) has created a coup
 My favorite is [Creating Text with Markov Chains](https://www.youtube.com/watch?v=bCbdErw4bZk) 
 it's a good intro to stochastic models for a non math audience.
  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bCbdErw4bZk" frameborder="0" allowfullscreen></iframe>
