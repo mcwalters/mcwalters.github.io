@@ -119,7 +119,8 @@ handed out, and the students learn to address the church elders as “they” (a
 want here? Do they want me to divide?”) ... The insistence that all numbers and expressions be put into various
 standard forms will provide additional confusion as to the meaning of identity and equality.
 
-The demand for respect which comes from Berry reeks of this "church of math" piety and is contrary to 
+The demand for respect which comes from Berry (and her self description as an evangelist for math) 
+reeks of this "church of math" piety and is contrary to 
 mathematical learning as an adventure of discovery, a creative endeavor where the teacher is a midwife not a sculptor.
 One of the wonderful things about math is that it's a level playing field. 
 There are no "thou shalt"s because the math is all there is. "Does this make sense?" is the only guideline.
@@ -151,7 +152,7 @@ rather than getting lost in the quagmire of abstract notation.
 
 > "Mathmatics isn't about computation, it's about problem solving." -- Elly Schofield
 
-Elly Schofield's [TEDx](http://tedxtalks.ted.com/video/A-Passion-for-Math-Elly-Schofie;search%3Aelly%20schofield) talk 
+[Elly Schofield's TEDx talk](http://tedxtalks.ted.com/video/A-Passion-for-Math-Elly-Schofie;search%3Aelly%20schofield) 
 tells her story of being quick, accurate, and adept at strict adherance to notation, leading to success in math until the
 undergraduate level where she discovered the truth: that isn't math. It's the toolkit of math, but it's not math. 
 Elly describes her "personal betrayal" by the education she received as the likely reason people hate mathematics. 
