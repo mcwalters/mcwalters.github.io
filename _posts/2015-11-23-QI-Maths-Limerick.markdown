@@ -9,7 +9,7 @@ A [Quite Interesting](http://www.bbc.co.uk/programmes/b06q53rz) bit of fun read 
 
 $$\frac{12+144+20+3\sqrt{4}}{7} + (5 \cdot 11) = 9^2 + 0$$
 
-{% highlight R %}
+{% highlight tex %}
 "A dozen, a gross and a score, 
 plus three times the square root of four,
 all over seven plus five times eleven
