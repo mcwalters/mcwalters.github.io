@@ -50,8 +50,8 @@ Let's see how $$5 \times 3$$ is equal to, but not equivalent to $$3 \times 5$$.
 >For example, 3 bundles of 5 bananas is different from 5 bundles of 3 bananas 
 although they total to the same number of bananas. Their structures are different.
 
-Different how? "Equivalent" needs a context to be meaningful. 
-Apples and oranges are equivalent as projectiles, not so much as culinary ingredients.
+Different how? **"Equivalent" needs a context to be meaningful.** 
+Apples and oranges are (roughly) equivalent as projectiles, not so much as culinary ingredients.
 But the bananas in Berry's example have no such context, other than one she artifically creates. 
 If arithmetic is about counting (and not about notation), then the structure of the bananas is not meaningful. 
 It is irrational to think that counting bananas would be different between 
@@ -59,7 +59,7 @@ three groups of five bananas and five groups of three bananas.
 The artificial "structure" Berry imposes on the counting, is absurd given that the apparent next lesson is 
 the commutative property which will eradicate the meaning of these structures.
 
-And what possible enlightenment could come from restraining the natural discovery of the commutative property? 
+And *what possible enlightenment could come from restraining the natural discovery of the commutative property?* 
 This student, exploring with pencil and paper during his quiz, 
 has apparently discovered this wonderfully intutive property of multiplication.
 And the teacher's instinct is to squash the student's genuine intellectual progress in order to adhere to a rigid pedagogy? 
@@ -77,7 +77,7 @@ I need a way to convey that information, and the $$\times$$ symbol allows for th
 **Substituting notation for understanding will inevitably fail**.
 Understanding doesn't come from using the "binary operators" correctly, but from having the problem 
 "how do I convey a proportion?" and needing a notation to talk precisely about that concepts.
-And speaking of notation, why do we teach notation that isn't useful?
+And speaking of notation, *why do we teach notation that isn't useful?*
 I have never met anyone over the age of 16 who uses the obelus (÷) to denote division. 
 We don't even have it on computer keyboard number pads.
 Teaching it at all is a confusing disservice when fractional notation is clearer as the symmetry of commutation is reflected. 
