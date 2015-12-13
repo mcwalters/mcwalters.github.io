@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "How NOT to teach mathematics"
-date:   2015-10-31 13:00:00
-categories: jekyll update
+date:   2015-12-12 18:00:00
+categories: math
 ---
 
 I am always saddened me when smart, educated, accompished people say 
@@ -41,8 +41,9 @@ Berry's first argument is about equality vs equivalency:
 
 > Equal is defined as, “being the same in quantity, size, degree, or value.” Whereas equivalent is defined as, “equal in value, amount, function, or meaning.”
 
-I am not one to complain about wanting more precision in definitions 
-(leaving aside the problem that one definition including the other does not add precision).
+I love precision in definitions, which is why this attempt to add precision saddens me so much.
+Embedding one definition within the other does not add precision in distinguishing one from the other.
+But let's leave that aside and go with this argument for the moment.
 I've often found that important subtleties are only discovered by splitting hairs and seeing what happens. 
 Let's see how $$5 \times 3$$ is equal to, but not equivalent to $$3 \times 5$$.
 
@@ -73,7 +74,7 @@ Instead of explaining that $$÷$$ divides numbers and $$\times$$ multiplies numb
 it would be more intutive to explain that when I count things by multiplication, 
 I need a way to convey that information, and the $$\times$$ symbol allows for that efficient communication.
 
-Substituting notation for understanding will inevitably fail.
+**Substituting notation for understanding will inevitably fail**.
 Understanding doesn't come from using the "binary operators" correctly, but from having the problem 
 "how do I convey a proportion?" and needing a notation to talk precisely about that concepts.
 And speaking of notation, why do we teach notation that isn't useful?
@@ -95,7 +96,7 @@ Conflating data typing with mathematical structure is so convoluted as to be inc
 It's also a flawed analogy as the structure difference she argues with multiplication is mathematical, 
 and the difference in the javascript example is string vs number. Even javascript's `===` operator knows there is no 
 difference between the summation of five threes and three fives, they are both equal and equivalent.
-I encourage you to try this for yourself, Ctrl+Shift+I will bring up a javascript console in the chrome browser.
+I encourage you to try this for yourself, `Ctrl+Shift+I` will bring up a javascript console in the chrome browser.
 
 <img src = "/images/javascript-equality.png">
 
@@ -148,7 +149,8 @@ One of the greatest teachers I've encountered in my life is
 taught me more about mathematics than all of the other courses I took in college combined.
 I'm grateful for his ability to break down the notation dogma and bring it back to understanding of the problem.
 "Without loss of generality let $$n=3$$" was his way of saying, let's look at what is actually happening 
-rather than getting lost in the quagmire of abstract notation.
+rather than getting lost in the quagmire of abstract notation. 
+He encouraged that curiosity which is the root of all discovery rather than dispensing a holy message from on high.
 
 > "Mathmatics isn't about computation, it's about problem solving." -- Elly Schofield
 
@@ -163,3 +165,5 @@ I love her idea of creating a small gap in the armor of the church of math.
 It doesn't have to be an overhaul of of the whole system, but let's make a place in math education 
 where the kid who's paper strayed from the rigid dogma and demonstrated real problem solving could be lauded for 
 doing real math.
+
+I hope that kid goes on to study real math.
