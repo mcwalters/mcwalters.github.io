@@ -141,6 +141,11 @@ I remember realizing I didn't have to count them all,
 I could count along one side and then the other and I could figure out how many tiles there were.
 This was real mathematics. No need of notation and no need of rigorous procedure.
 I had a problem in the world, was able to map it to an idea in my head and solve the problem.
+I got to invent a system, explore the intellectual toolkit inherent in all humans. 
+This is what's required to explore the creativity of math. 
+I love [Vi Hart](https://www.youtube.com/watch?v=TINfzxSnnIE)'s description of math: 
+
+![Vi Hart on Math](/images/aboutmathvihart.png)
 
 One of the greatest teachers I've encountered in my life is 
 [Paul Zeitz](https://www.usfca.edu/faculty/paul-zeitz), who's 
