@@ -2,8 +2,9 @@
 title: McW
 email: mcwalters@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  My new github hosted blog. There will be content here having to do with
+  There will be content here having to do with
   fun programming and mathematics facts I discover and decide to share.
+  And anything else I like including food, politics, travel, and other necessities of life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mcwalters.github.io" # the base hostname & protocol for your site
 twitter_username: BrendanMcW
