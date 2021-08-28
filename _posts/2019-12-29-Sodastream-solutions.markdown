@@ -33,5 +33,9 @@ My first CO2 canister lasted 4 months, and the second lasted 10 months, which ma
 
 In any case, I made up my investment and more. I'm very happy with this set up.
 
+### Update 8/28/2021:
+
+Third CO2 canister is about to run out, so my usage pattern appears to be 50 lbs CO2 every ~8.5 months. 
+Now the CO2 refills at AirGas have increased in cost to ~$70 (up from $44 pre-COVID), but still doing much better than my original Pellegrino budget.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/muEFD_odvUg" frameborder="0" allowfullscreen></iframe>
