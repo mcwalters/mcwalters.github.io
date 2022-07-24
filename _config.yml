@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   And anything else I like including food, politics, travel, and other necessities of life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mcwalters.github.io" # the base hostname & protocol for your site
-twitter_username: BrendanMcW
 github_username: mcwalters
 
 # Build settings
